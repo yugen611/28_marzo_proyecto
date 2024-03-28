@@ -1,0 +1,32 @@
+
+.butterfly-kids-regular {
+    font-family: "Butterfly Kids", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .container {
+      background-color: aquamarine;
+      
+      height: 100px;
+  }
+ */*.container-fluid{/*se usa mas segudo que otro container
+     
+      height: 100px;
+  }
+  */
+  .row{
+      background-color: darkorange;
+      margin: 5px;
+
+  }
+  .col{
+      background-color: lightslategray;
+      margin: 5px;
+  }
+  .permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
